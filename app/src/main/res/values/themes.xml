@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.CallBlock" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#00796B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#26A69A</item>
+    </style>
+</resources>
